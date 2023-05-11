@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1683767466 source:c:\users\hungh\desktop\sdl\main_game\main.cpp
+	<windows.h>
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
